@@ -1,6 +1,0 @@
-Center(
-  child: Text(
-        'Hello, OOP!',
-        style: TextStyle(fontSize: 24),
-  ),
-)
